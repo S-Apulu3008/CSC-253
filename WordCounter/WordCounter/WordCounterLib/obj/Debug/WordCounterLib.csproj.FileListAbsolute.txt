@@ -1,0 +1,5 @@
+F:\FTCC\Fall20\CSC-253\M2\WordCounter\WordCounterLib\bin\Debug\WordCounterLib.dll
+F:\FTCC\Fall20\CSC-253\M2\WordCounter\WordCounterLib\bin\Debug\WordCounterLib.pdb
+F:\FTCC\Fall20\CSC-253\M2\WordCounter\WordCounterLib\obj\Debug\WordCounterLib.dll
+F:\FTCC\Fall20\CSC-253\M2\WordCounter\WordCounterLib\obj\Debug\WordCounterLib.pdb
+F:\FTCC\Fall20\CSC-253\M2\WordCounter\WordCounterLib\obj\Debug\WordCounterLib.csprojAssemblyReference.cache

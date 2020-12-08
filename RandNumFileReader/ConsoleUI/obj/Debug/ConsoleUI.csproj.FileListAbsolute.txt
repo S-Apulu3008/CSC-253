@@ -1,0 +1,9 @@
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\bin\Debug\RandNumReader.dll
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\bin\Debug\RandNumReader.pdb
+F:\FTCC\Fall20\CSC-253\M3\RandNumFileReader\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

@@ -1,0 +1,9 @@
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\bin\Debug\WordCounterLib.dll
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\bin\Debug\WordCounterLib.pdb
+F:\FTCC\Fall20\CSC-253\M2\AverageNumOfLetters\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

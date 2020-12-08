@@ -1,0 +1,5 @@
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\Retail\obj\Debug\Retail.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\Retail\bin\Debug\Retail.dll
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\Retail\bin\Debug\Retail.pdb
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\Retail\obj\Debug\Retail.dll
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\Retail\obj\Debug\Retail.pdb

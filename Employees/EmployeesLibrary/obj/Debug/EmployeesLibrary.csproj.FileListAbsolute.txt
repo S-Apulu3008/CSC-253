@@ -1,0 +1,11 @@
+F:\FTCC\Spring20\CSC153\M4\Mod4Test_apulus8050\Employees\EmployeesLibrary\bin\Debug\EmployeesLibrary.dll
+F:\FTCC\Spring20\CSC153\M4\Mod4Test_apulus8050\Employees\EmployeesLibrary\bin\Debug\EmployeesLibrary.pdb
+F:\FTCC\Spring20\CSC153\M4\Mod4Test_apulus8050\Employees\EmployeesLibrary\obj\Debug\EmployeesLibrary.csprojAssemblyReference.cache
+F:\FTCC\Spring20\CSC153\M4\Mod4Test_apulus8050\Employees\EmployeesLibrary\obj\Debug\EmployeesLibrary.dll
+F:\FTCC\Spring20\CSC153\M4\Mod4Test_apulus8050\Employees\EmployeesLibrary\obj\Debug\EmployeesLibrary.pdb
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeesLibrary\bin\Debug\EmployeesLibrary.dll
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeesLibrary\bin\Debug\EmployeesLibrary.pdb
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeesLibrary\obj\Debug\EmployeesLibrary.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeesLibrary\obj\Debug\EmployeesLibrary.csproj.CoreCompileInputs.cache
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeesLibrary\obj\Debug\EmployeesLibrary.dll
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeesLibrary\obj\Debug\EmployeesLibrary.pdb

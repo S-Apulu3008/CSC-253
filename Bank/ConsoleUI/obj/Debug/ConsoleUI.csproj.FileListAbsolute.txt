@@ -1,0 +1,6 @@
+F:\FTCC\Fall20\CSC-253\M3\Bank\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M3\Bank\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\FTCC\Fall20\CSC-253\M3\Bank\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M3\Bank\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M3\Bank\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M3\Bank\ConsoleUI\obj\Debug\ConsoleUI.pdb

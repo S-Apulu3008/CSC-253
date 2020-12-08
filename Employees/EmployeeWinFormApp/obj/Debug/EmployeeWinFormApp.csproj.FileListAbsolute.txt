@@ -1,0 +1,13 @@
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\bin\Debug\EmployeeWinFormApp.exe.config
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\bin\Debug\EmployeeWinFormApp.exe
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\bin\Debug\EmployeeWinFormApp.pdb
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\bin\Debug\EmployeesLibrary.dll
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\bin\Debug\EmployeesLibrary.pdb
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\obj\Debug\EmployeeWinFormApp.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\obj\Debug\EmployeeWinFormApp.Form1.resources
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\obj\Debug\EmployeeWinFormApp.Properties.Resources.resources
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\obj\Debug\EmployeeWinFormApp.csproj.GenerateResource.cache
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\obj\Debug\EmployeeWinFormApp.csproj.CoreCompileInputs.cache
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\obj\Debug\EmployeeWinFormApp.csproj.CopyComplete
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\obj\Debug\EmployeeWinFormApp.exe
+F:\FTCC\Fall20\CSC-253\M4\Employees\EmployeeWinFormApp\obj\Debug\EmployeeWinFormApp.pdb

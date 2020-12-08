@@ -1,0 +1,5 @@
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\IgPayAtinLay\bin\Debug\IgPayAtinLay.dll
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\IgPayAtinLay\bin\Debug\IgPayAtinLay.pdb
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\IgPayAtinLay\obj\Debug\IgPayAtinLay.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\IgPayAtinLay\obj\Debug\IgPayAtinLay.dll
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\IgPayAtinLay\obj\Debug\IgPayAtinLay.pdb

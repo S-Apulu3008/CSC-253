@@ -1,0 +1,10 @@
+F:\FTCC\Fall20\CSC-253\M1\Area\AreaOfShapes\bin\Debug\AreaOfShapes.dll
+F:\FTCC\Fall20\CSC-253\M1\Area\AreaOfShapes\bin\Debug\AreaOfShapes.pdb
+F:\FTCC\Fall20\CSC-253\M1\Area\AreaOfShapes\obj\Debug\AreaOfShapes.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M1\Area\AreaOfShapes\obj\Debug\AreaOfShapes.dll
+F:\FTCC\Fall20\CSC-253\M1\Area\AreaOfShapes\obj\Debug\AreaOfShapes.pdb
+E:\FTCC\Fall20\CSC-253\M1\AreaClass_SeneApulu\Area\AreaOfShapes\bin\Debug\AreaOfShapes.dll
+E:\FTCC\Fall20\CSC-253\M1\AreaClass_SeneApulu\Area\AreaOfShapes\bin\Debug\AreaOfShapes.pdb
+E:\FTCC\Fall20\CSC-253\M1\AreaClass_SeneApulu\Area\AreaOfShapes\obj\Debug\AreaOfShapes.csprojAssemblyReference.cache
+E:\FTCC\Fall20\CSC-253\M1\AreaClass_SeneApulu\Area\AreaOfShapes\obj\Debug\AreaOfShapes.dll
+E:\FTCC\Fall20\CSC-253\M1\AreaClass_SeneApulu\Area\AreaOfShapes\obj\Debug\AreaOfShapes.pdb

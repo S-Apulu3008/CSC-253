@@ -1,0 +1,9 @@
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\bin\Debug\WinFormDemo.exe.config
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\bin\Debug\WinFormDemo.exe
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\bin\Debug\WinFormDemo.pdb
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.csprojAssemblyReference.cache
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.WinFormDemo.resources
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.Properties.Resources.resources
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.csproj.GenerateResource.cache
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.exe
+E:\FTCC\Fall20\CSC-253\M4\WinForm\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.pdb

@@ -1,0 +1,9 @@
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\bin\Debug\Retail.dll
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\bin\Debug\Retail.pdb
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M4\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.pdb

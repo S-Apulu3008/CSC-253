@@ -1,0 +1,14 @@
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\bin\Debug\WpfAppUI.exe.config
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\bin\Debug\WpfAppUI.exe
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\bin\Debug\WpfAppUI.pdb
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\WpfAppUI.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\MainWindow.g.cs
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\App.g.cs
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\WpfAppUI_MarkupCompile.cache
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\WpfAppUI_MarkupCompile.lref
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\MainWindow.baml
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\WpfAppUI.g.resources
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\WpfAppUI.Properties.Resources.resources
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\WpfAppUI.csproj.GenerateResource.cache
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\WpfAppUI.exe
+F:\FTCC\Fall20\CSC-253\M4\Demos\WpfAppDemo\WpfAppUI\obj\Debug\WpfAppUI.pdb

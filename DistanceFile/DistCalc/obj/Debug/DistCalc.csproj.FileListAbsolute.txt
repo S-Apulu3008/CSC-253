@@ -1,0 +1,10 @@
+F:\FTCC\Fall20\CSC-253\M3\DistanceCalc\DistCalc\bin\Debug\DistCalc.dll
+F:\FTCC\Fall20\CSC-253\M3\DistanceCalc\DistCalc\bin\Debug\DistCalc.pdb
+F:\FTCC\Fall20\CSC-253\M3\DistanceCalc\DistCalc\obj\Debug\DistCalc.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M3\DistanceCalc\DistCalc\obj\Debug\DistCalc.dll
+F:\FTCC\Fall20\CSC-253\M3\DistanceCalc\DistCalc\obj\Debug\DistCalc.pdb
+F:\FTCC\Fall20\CSC-253\M3\DistanceFile\DistCalc\bin\Debug\DistCalc.dll
+F:\FTCC\Fall20\CSC-253\M3\DistanceFile\DistCalc\bin\Debug\DistCalc.pdb
+F:\FTCC\Fall20\CSC-253\M3\DistanceFile\DistCalc\obj\Debug\DistCalc.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M3\DistanceFile\DistCalc\obj\Debug\DistCalc.dll
+F:\FTCC\Fall20\CSC-253\M3\DistanceFile\DistCalc\obj\Debug\DistCalc.pdb

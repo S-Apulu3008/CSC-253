@@ -1,0 +1,5 @@
+E:\FTCC\Fall20\CSC-253\M3\FileWriter\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\FTCC\Fall20\CSC-253\M3\FileWriter\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\FTCC\Fall20\CSC-253\M3\FileWriter\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\FTCC\Fall20\CSC-253\M3\FileWriter\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\FTCC\Fall20\CSC-253\M3\FileWriter\ConsoleUI\obj\Debug\ConsoleUI.pdb

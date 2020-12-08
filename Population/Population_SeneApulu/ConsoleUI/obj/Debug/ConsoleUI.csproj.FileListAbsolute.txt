@@ -1,0 +1,9 @@
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\bin\Debug\MyClassLib.dll
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\bin\Debug\MyClassLib.pdb
+F:\FTCC\Fall20\CSC-253\M1\Population_SeneApulu\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

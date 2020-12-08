@@ -1,0 +1,14 @@
+C:\Users\Sene\source\repos\HospitalCharges_SApulu\Hospital\bin\Debug\Hospital.dll
+C:\Users\Sene\source\repos\HospitalCharges_SApulu\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Sene\source\repos\HospitalCharges_SApulu\Hospital\obj\Debug\Hospital.dll
+C:\Users\Sene\source\repos\HospitalCharges_SApulu\Hospital\obj\Debug\Hospital.pdb
+E:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\bin\Debug\Hospital.dll
+E:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\bin\Debug\Hospital.pdb
+E:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+E:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\obj\Debug\Hospital.dll
+E:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\obj\Debug\Hospital.pdb
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\bin\Debug\Hospital.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\bin\Debug\Hospital.pdb
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\obj\Debug\Hospital.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\Hospital\obj\Debug\Hospital.pdb

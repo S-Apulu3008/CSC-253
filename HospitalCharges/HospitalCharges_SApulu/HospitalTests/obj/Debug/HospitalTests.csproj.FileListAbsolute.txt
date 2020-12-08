@@ -1,0 +1,15 @@
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\HospitalTests.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\HospitalTests.pdb
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Hospital.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Hospital.pdb
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\obj\Debug\HospitalTests.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\obj\Debug\HospitalTests.csproj.CopyComplete
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\obj\Debug\HospitalTests.dll
+F:\FTCC\Fall20\CSC-253\M1\HospitalCharges_SeneApulu\HospitalCharges_SApulu\HospitalTests\obj\Debug\HospitalTests.pdb

@@ -1,0 +1,9 @@
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\obj\Debug\ConsoleUI.pdb
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\bin\Debug\IgPayAtinLay.dll
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\bin\Debug\IgPayAtinLay.pdb
+F:\FTCC\Fall20\CSC-253\M2\PigLatin\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

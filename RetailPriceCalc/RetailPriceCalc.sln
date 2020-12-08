@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{142F391D-E323-415B-9C01-F2FA4D94F823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail", "Retail\Retail.csproj", "{DBAF4DAB-6ABD-4A0E-A103-61FFB9391E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailTests", "RetailTests\RetailTests.csproj", "{4389BF0E-3B76-4F7B-BD1C-B2C07116A81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{142F391D-E323-415B-9C01-F2FA4D94F823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142F391D-E323-415B-9C01-F2FA4D94F823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142F391D-E323-415B-9C01-F2FA4D94F823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142F391D-E323-415B-9C01-F2FA4D94F823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAF4DAB-6ABD-4A0E-A103-61FFB9391E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAF4DAB-6ABD-4A0E-A103-61FFB9391E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAF4DAB-6ABD-4A0E-A103-61FFB9391E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAF4DAB-6ABD-4A0E-A103-61FFB9391E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4389BF0E-3B76-4F7B-BD1C-B2C07116A81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4389BF0E-3B76-4F7B-BD1C-B2C07116A81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4389BF0E-3B76-4F7B-BD1C-B2C07116A81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4389BF0E-3B76-4F7B-BD1C-B2C07116A81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD4A84A-042E-453A-A053-7216F99C314C}
+	EndGlobalSection
+EndGlobal

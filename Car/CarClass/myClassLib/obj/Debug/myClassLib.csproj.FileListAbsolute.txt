@@ -1,0 +1,17 @@
+F:\FTCC\Spring20\CSC153\M4\M4HW1_apulus8050\CarClass\myClassLib\bin\Debug\myClassLib.dll
+F:\FTCC\Spring20\CSC153\M4\M4HW1_apulus8050\CarClass\myClassLib\bin\Debug\myClassLib.pdb
+F:\FTCC\Spring20\CSC153\M4\M4HW1_apulus8050\CarClass\myClassLib\obj\Debug\myClassLib.csprojAssemblyReference.cache
+F:\FTCC\Spring20\CSC153\M4\M4HW1_apulus8050\CarClass\myClassLib\obj\Debug\myClassLib.dll
+F:\FTCC\Spring20\CSC153\M4\M4HW1_apulus8050\CarClass\myClassLib\obj\Debug\myClassLib.pdb
+F:\FTCC\Spring20\CSC153\M4\M4HW1_apulus8050\CarClass\myClassLib\obj\Debug\myClassLib.csproj.CoreCompileInputs.cache
+F:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\obj\Debug\myClassLib.csprojAssemblyReference.cache
+F:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\obj\Debug\myClassLib.csproj.CoreCompileInputs.cache
+F:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\bin\Debug\CarGarage.dll
+F:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\bin\Debug\CarGarage.pdb
+F:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\obj\Debug\CarGarage.dll
+F:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\obj\Debug\CarGarage.pdb
+E:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\bin\Debug\CarGarage.dll
+E:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\bin\Debug\CarGarage.pdb
+E:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+E:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\obj\Debug\CarGarage.dll
+E:\FTCC\Fall20\CSC-253\M4\Car\CarClass\myClassLib\obj\Debug\CarGarage.pdb
